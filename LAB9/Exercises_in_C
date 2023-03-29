@@ -1,6 +1,6 @@
 //                                        ZESTAW 4
 
-//PROGRAM 1 - napisz program, w ktorym uzytkownik wprowadza numer dnia tygodnia i wypisuje okreslony tekst w zale¿nosci od liczby
+//PROGRAM 1 - napisz program, w ktorym uzytkownik wprowadza numer dnia tygodnia i wypisuje okreslony tekst w zaleÂ¿nosci od liczby
 /*
 #include <stdio.h>
 main()
@@ -60,7 +60,7 @@ int wyznacznik(int *n, int *macierz[][])
     int det;
     if(n==2) det=(macierz[0][0]*macierz[1][1])-(macierz[0][1]*macierz[1][0]);
     else if (n==3) det=(macierz[0][0]*macierz[1][1]*macierz[2][2])+(macierz[0][1]*macierz[1][2]*macierz[2][1])+(macierz[0][2]*macierz[1][0]*macierz[2][1])-(macierz[0][1]*macierz[1][0]*macierz[2][2])-(macierz[0][0]*macierz[1][2]*macierz[2][1])-(macierz[0][2]*macierz[1][1]*macierz[2][0]);
-    else printf("B³±d");
+    else printf("BÂ³Â±d");
 }
 main()
 {
