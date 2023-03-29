@@ -104,7 +104,7 @@ main()
 	
 	
 	/*ZADANIE EKSTRA */
-	/*Napisz program, ktÛry powie, po wpisaniu daty, jaki dzieÒ tygodnia to by≥. POMOCNE - dzielenie z resztπ!*/
+	/*Napisz program, kt√≥ry powie, po wpisaniu daty, jaki dzie≈Ñ tygodnia to by≈Ç. POMOCNE - dzielenie z reszt≈°!*/
 	int d, m, s, r;
 	scanf("%d",&d);
 	scanf("%d",&m);
@@ -129,4 +129,5 @@ main()
 	}
 	
 
+	
 }
